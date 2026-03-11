@@ -1,6 +1,4 @@
-Here’s a polished, GitHub‑ready README description for your Power BI data‑modelling project. I’ve shaped it to sound clear, professional, and aligned with best practices—something you can drop straight into your repository.
-
-📊 Power BI Data Modelling: Star Schema, Merge Queries & Active/Inactive Relationships
+Power BI Data Modelling: Star Schema, Merge Queries & Active/Inactive Relationships
 This project demonstrates a clean and scalable Power BI data‑modelling approach using industry‑standard best practices. It focuses on building a Star Schema, performing query transformations, and managing multiple date relationships (Order Date vs Shipping Date) using the active/inactive relationship concept.
 
 ⭐ Star Schema Design
